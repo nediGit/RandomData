@@ -34,3 +34,7 @@ Contain the data used to created the random files
 **6. schemas.py**
 
 Contain the schemas used to created the data
+
+Execute the main and enjoy.
+
+Comments? Suggestions? Are all welcome
