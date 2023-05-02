@@ -1,27 +1,36 @@
 # RandomData
-Python code using faker package to create connected random data or random data
-You will find 6 files
 
-main.py
+This files contain a code use to generate related random data. It's a person-client-store-product-bill model. Below is explained each object
+## Python code using faker package to create connected random data or random data.
+
+You can select if you want to create related or free data, just see the options in the menu
+
+## ERD
+
+If you choose related data, you have the follow ERD
+
+![alt text](image.jpg)
+
+**1. main.py**
 
 Contain a menu asking if you want to created a related files or random. Only 2 options
 
-objects.py
+**2. objects.py**
 
 Contains the objects used to created the connected or linked files
 
-csvfree.py
+**3. csvfree.py**
 
 Contains the objects used to created the random files
 
-csvlinked.py
+**4. csvlinked.py**
 
 Contains the objects used to created the random connected files
 
-generators.py
+**5. generators.py**
 
 Contain the data used to created the random files
 
-schemas.py
+**6. schemas.py**
 
 Contain the schemas used to created the data
