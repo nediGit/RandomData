@@ -9,7 +9,7 @@ You can select if you want to create related or free data, just see the options 
 
 If you choose related data, you have the follow ERD
 
-![alt text](image.jpg)
+![ERD](ERD.jpg)
 
 **1. main.py**
 
