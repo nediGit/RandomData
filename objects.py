@@ -36,7 +36,7 @@ class product:
         self.price=price
 
     def to_string(product):
-        return [str(product.product_id),str(product.name),str(product.shop_id),str(product.price)]
+        return [str(product.product_id),str(product.product_name),str(product.shop_id),str(product.price)]
 
 class bill:
     def __init__(self,bill_id,shop_id,customer_id,date_time,total):
